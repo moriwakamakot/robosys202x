@@ -1,12 +1,14 @@
-# robosys202x
+# plusコマンド
 ![test](https://github.com/moriwakamakot/robosys202x/actions/workflows/test.yml/badge.svg)
 
 #何をするためのソフトか
 標準入力から読み込んだ数字を足す。
 
 #使い方
+githubサイト上からご利用ください。
 
 #テストの結果
+上記URLを参照。
 
 #権利関係・謝辞
 本ソフトの内容は千葉工業大学上田隆一准教授の講義内容を参考にしています。
@@ -18,4 +20,4 @@
 ##テスト環境
 * ubuntu
 
-*© 2022 Makoto Moriwaka
+© 2022 Makoto Moriwaka
